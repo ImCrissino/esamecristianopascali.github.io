@@ -63,5 +63,5 @@ Questo è un sito web educativo creato per un esame di terza media. Il progetto 
 
 ---
 
-**Creato con da Cristiano Pascali**
+**Creatoda Cristiano Pascali**
 ---
